@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GilmanViewTool::Renderer.copyright 'Isabella Gilman', 'All rights reserved'
+```
 
 ## Development
 
